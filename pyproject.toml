@@ -1,0 +1,9 @@
+[project]
+name = "voyage-analytics"
+version = "0.1.0"
+description = "Travel analytics ML, API, recommendation, and MLOps capstone project."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

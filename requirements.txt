@@ -1,0 +1,13 @@
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+joblib==1.4.2
+flask==2.2.5
+werkzeug==2.3.8
+gunicorn==22.0.0
+mlflow==2.14.3
+streamlit==1.36.0
+plotly==5.22.0
+pytest==8.2.2
+setuptools==75.1.0
+ipython==8.26.0
